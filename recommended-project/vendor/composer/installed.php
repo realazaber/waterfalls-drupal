@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '9.3.3',
-    'version' => '9.3.3.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'ad05150d581d48e27ea1fb3fc195775bcfcabb14',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -71,6 +71,15 @@
       array (
         0 => '9.3.3',
       ),
+    ),
+    'drupal/admin_toolbar' => 
+    array (
+      'pretty_version' => '3.0.3',
+      'version' => '3.0.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3.0.3',
     ),
     'drupal/aggregator' => 
     array (
@@ -726,12 +735,12 @@
     ),
     'drupal/recommended-project' => 
     array (
-      'pretty_version' => '9.3.3',
-      'version' => '9.3.3.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'ad05150d581d48e27ea1fb3fc195775bcfcabb14',
     ),
     'drupal/responsive_image' => 
     array (
