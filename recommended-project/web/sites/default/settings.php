@@ -776,3 +776,5 @@ $databases['default']['default'] = array (
   'driver' => 'sqlite',
 );
 $settings['config_sync_directory'] = 'sites/default/files/config_avQ1iO3Gzmnf8b6Cwc-IZKpZpiqwPCUfwxt55D4vIRM_D3_YNm1s92XZBPUdS9KergvSxiiOlA/sync';
+$config['system.logging']['error_level']='verbose';
+
