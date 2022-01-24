@@ -30,7 +30,7 @@ class InstalledVersions
     'aliases' => 
     array (
     ),
-    'reference' => '1b0bd98cd934f6583583c5b93bd4a34687d7c787',
+    'reference' => '78c17cefc41ab1da79fd06154b416ef35a963c40',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -71,6 +71,51 @@ class InstalledVersions
       ),
       'reference' => '5b668aef16090008790395c02c893b1ba13f7e08',
     ),
+    'doctrine/cache' => 
+    array (
+      'pretty_version' => '1.12.1',
+      'version' => '1.12.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '4cf401d14df219fa6f38b671f5493449151c9ad8',
+    ),
+    'doctrine/collections' => 
+    array (
+      'pretty_version' => '1.6.8',
+      'version' => '1.6.8.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '1958a744696c6bb3bb0d28db2611dc11610e78af',
+    ),
+    'doctrine/common' => 
+    array (
+      'pretty_version' => '2.13.3',
+      'version' => '2.13.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f3812c026e557892c34ef37f6ab808a6b567da7f',
+    ),
+    'doctrine/event-manager' => 
+    array (
+      'pretty_version' => '1.1.1',
+      'version' => '1.1.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '41370af6a30faa9dc0368c4a6814d596e81aba7f',
+    ),
+    'doctrine/inflector' => 
+    array (
+      'pretty_version' => '1.4.4',
+      'version' => '1.4.4.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '4bd5c1cdfcd00e9e2d8c484f79150f67e5d355d9',
+    ),
     'doctrine/lexer' => 
     array (
       'pretty_version' => '1.2.1',
@@ -79,6 +124,15 @@ class InstalledVersions
       array (
       ),
       'reference' => 'e864bbf5904cb8f5bb334f99209b48018522f042',
+    ),
+    'doctrine/persistence' => 
+    array (
+      'pretty_version' => '1.3.8',
+      'version' => '1.3.8.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '7a6eac9fb6f61bba91328f15aa7547f4806ca288',
     ),
     'doctrine/reflection' => 
     array (
@@ -500,6 +554,15 @@ class InstalledVersions
         0 => '9.3.3',
       ),
     ),
+    'drupal/devel' => 
+    array (
+      'pretty_version' => '4.1.3',
+      'version' => '4.1.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '4.1.3',
+    ),
     'drupal/dynamic_page_cache' => 
     array (
       'replaced' => 
@@ -782,7 +845,7 @@ class InstalledVersions
       'aliases' => 
       array (
       ),
-      'reference' => '1b0bd98cd934f6583583c5b93bd4a34687d7c787',
+      'reference' => '78c17cefc41ab1da79fd06154b416ef35a963c40',
     ),
     'drupal/responsive_image' => 
     array (
