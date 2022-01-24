@@ -14,3 +14,5 @@ regions:
   page_top: Page top
   page_bottom: Page bottom
 
+libraries:
+  - mysimplesmart/global-css
