@@ -1,6 +1,20 @@
 name: Simple Smart Classy Version
 type: theme
-description: "A sleek & practical theme for everyone."
+description: "A sleek & practical theme for curious minds."
 core_version_requirement: ^8 || ^9
 core: 8.x
 base theme: classy
+screenshot: simplesmartscreenshot.png
+
+regions: 
+  header: Header
+  mythememenu: Navigation 
+  content: Content
+  footer: Footer
+  page_top: Page top
+  page_bottom: Page bottom
+  
+libraries: 
+  - simplesmart/global-css
+  - simplesmart/pacifico
+  
